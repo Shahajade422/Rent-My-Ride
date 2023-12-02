@@ -9,7 +9,6 @@
 	* log-in
 	* register
 	* reset password
-	* reset e-mail with generated token valid 1h
 	* client side validation
 	* backend side validation (Express - validator)
 	* rent a car 
@@ -18,8 +17,6 @@
 	* place an order
 	* pay now (reduce price with 10%)
 	* pay later
-	* PDF invoice
-	* confirmation e-mail (invoice e-mail)
 	* simple gsap - "GreenSock" - animation
 
 
@@ -31,12 +28,8 @@
  ### Fleet Page <h3>
 	* search bar to search ( by model, name or type )
 	* sort the fleet by price
- ![fleet_1](img/cars_1.jpg)
-
-### Fleet Page <h3>
-	* client side pagination
- ![fleet_2](img/cars_2.jpg)
-
+ ![fleet_1](img/cars_1.jpg) 0
+ 
 ### Auth Page <h3>
 	* login, register
 	* reset password, reset email
@@ -46,11 +39,5 @@
 
  ![order_form](img/order_form.jpg)
 
-### Auth Page <h3>
-	* Delete Order
-	* pay now, pay later - changing the price if pay now (backend)
-	* Invoice Email on Checkout
-	* PDF Invoice
- ![order](img/order.jpg)
 
 All calculations or changes in price or product are made in backend
